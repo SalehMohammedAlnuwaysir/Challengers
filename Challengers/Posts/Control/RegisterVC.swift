@@ -69,6 +69,8 @@ class RegesterVC: UIViewController,UIPickerViewDelegate,UIPickerViewDataSource {
         
         NavigationBar.setBackgroundImage(UIImage(), for: .default)
         NavigationBar.isTranslucent = true
+        
+        // Welcome, check if the gitignore file works
     }
     
     override func didReceiveMemoryWarning() {
