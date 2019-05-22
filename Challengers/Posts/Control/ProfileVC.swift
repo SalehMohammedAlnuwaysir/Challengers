@@ -57,6 +57,7 @@ class ProfileVC: UIViewController {
       
         
         self.nameLbl.backgroundColor = UIColor.yellow
+        self.bestTimeLbl.backgroundColor = UIColor.blue
     }
     
     override func didReceiveMemoryWarning() {
