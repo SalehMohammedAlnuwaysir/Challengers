@@ -55,6 +55,8 @@ class ProfileVC: UIViewController {
         loadChallenges()
         getChallenges()
       
+        
+        self.nameLbl.backgroundColor = UIColor.green
     }
     
     override func didReceiveMemoryWarning() {
