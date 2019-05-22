@@ -58,6 +58,8 @@ class ProfileVC: UIViewController {
         
         self.nameLbl.backgroundColor = UIColor.yellow
         self.bestTimeLbl.backgroundColor = UIColor.blue
+        
+        //check pushfor newFeature
     }
     
     override func didReceiveMemoryWarning() {
